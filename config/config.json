@@ -1,0 +1,26 @@
+{
+
+    "precision_solution": 0.9,
+    "barrier_energy_value": 9999,
+    "default_value_tts": 99999,
+
+    "ancilla_bits": 3,
+    "initialization": "random",
+    "beta_classical": 5,
+    "beta_quantum": 3,
+    "beta_type": "fixed",
+    "alpha": 0.9,
+    "kappa": 1,
+    "annealing_schedule": "geometric",
+    "number_iterations": 100,
+    "path_tts_plot": "./results/",
+
+    "initial_step": 2,
+    "final_step": 5,
+    "w_real_mode": 20,
+    "execution_mode": "simulation",
+    "debug_level": 0,
+
+    "output_plot": false
+
+}
